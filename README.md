@@ -1,1 +1,1 @@
-# MAGD-150_Project
+# MAGD-150_GitHub_Project

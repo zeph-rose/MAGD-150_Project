@@ -1,1 +1,2 @@
 # MAGD-150_GitHub_Project
+The first file titled Lab 7 Assignment is the lab in the MAGD 150 course from March 18th that taught us how to use the following functions in p5.js: translate, scale, rotate, angleMode, push and pop, and print. The sketch depicts a _Retro Game_ with a graphic on a rectangular screen. Within the code, the print function is used to calculate a set amount of weight as if you were placed on the moon. 
